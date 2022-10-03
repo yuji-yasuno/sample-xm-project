@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\Users\yuji-\Dropbox\仕事 Sitecore\Development Test\XM Projects\Sitecore.DemoProject.MVC\Sitecore.DemoProject.MVC.Web\../cm</_PublishTargetUrl>
-    <History>True|2022-10-02T03:02:44.6265676Z;</History>
+    <History>True|2022-10-03T12:09:54.0769881Z;True|2022-10-02T12:02:44.6265676+09:00;</History>
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/ja/System.Web.Helpers.resources.dll">
@@ -180,10 +180,10 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>08/08/2018 12:18:16</publishTime>
     </File>
     <File Include="bin/Sitecore.DemoProject.MVC.Web.dll">
-      <publishTime>10/02/2022 12:02:42</publishTime>
+      <publishTime>10/03/2022 21:09:52</publishTime>
     </File>
     <File Include="bin/Sitecore.DemoProject.MVC.Web.pdb">
-      <publishTime>10/02/2022 12:02:42</publishTime>
+      <publishTime>10/03/2022 21:09:52</publishTime>
     </File>
     <File Include="bin/System.Web.Helpers.dll">
       <publishTime>11/28/2018 13:04:24</publishTime>
